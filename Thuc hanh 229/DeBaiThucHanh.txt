@@ -1,0 +1,31 @@
+//Tren lop 
+Viet chuong trinh , ứng dụng mạng theo mô hình Client server sử dụng TCP Socket , chương trình client cho phép nhập chuỗi bất kì từ bàn phím . 
+Gửi tới Server , Server hiển thị tên , địa chỉ Ip , địa chỉ cổng và chuỗi nhận được , sau đó đổi chuỗi thành chuỗi chữ to và gửi về Client. 
+Client hiển thị lên và kết thúc chương trình. 
+
+//Viết chương trình chat giữa 2 người 
+
+// Viết chương trình tương tự như trên nhưng nhập vào 1 dãy số nguyên , gửi tới Server , Server tính tổng và sắp xếp dãy số theo chiều tăng dần và 
+trả kết quả về cho Client  
+
+
+Viet chuong trinh thuc hien dang nhap , chuong trinh client co giao dien do hoa va co truong nhap username va password , khi chon phim dang nhap 
+thi no thay username va password va gui toi server , server kiem tra neu dung thi gui ve chuoi dang nhap thanh cong , neu sai thi gui ve tai khong ton tai 
+cho phep nhap lai 3 lan , vuot qua thi ket thuc chuong trinh 
+
+
+//Về nhà  
+Bài 1:
+Sửa lại bài đang nhập , các tài khoản được chứa trong tệp 
+Tài khoản chứa trong tệp phải được mã hóa , khi đọc thì phải được giải mã 
+
+Bài 2 : Tương tự như bài trên nhưng màn hình đăng nhập có thêm nút tạo thêm tài khoản mới hoặc không là điều khiển check box , khi tích vào checkbox thì 
+xuất hiện nút tạo tài khoản mới. Người sử dụng tạo tài khoản mới gửi tới server , phía server mã hóa tài khoản và ghi bổ sung xuống tệp , còn khi không 
+tích check box thì thực hiện đăng nhập bình thường , thì nút tạo tài khoản mới trở thành nút login
+
+Bài 3: Thực hiện tất cả các bài thực hành bằng Datagram Socket.
+
+
+
+
+
